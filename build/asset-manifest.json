@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PortfolioFusion/static/css/main.34ab8b4a.css",
+    "main.js": "/PortfolioFusion/static/js/main.aec47b59.js",
+    "static/media/profile-pic.jpeg": "/PortfolioFusion/static/media/profile-pic.23879ce839e57cb4ff71.jpeg",
+    "static/media/kyle-resume.pdf": "/PortfolioFusion/static/media/kyle-resume.d2faecea718d9bcaf72b.pdf",
+    "index.html": "/PortfolioFusion/index.html",
+    "main.34ab8b4a.css.map": "/PortfolioFusion/static/css/main.34ab8b4a.css.map",
+    "main.aec47b59.js.map": "/PortfolioFusion/static/js/main.aec47b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ab8b4a.css",
+    "static/js/main.aec47b59.js"
+  ]
+}
